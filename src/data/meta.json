@@ -1,8 +1,8 @@
 {
-    "title": "Nerds of the 90s",
-    "description": "This is just a demo of a webring. It could be about anything - Metal Bands, Knitting, Craft Beer, Accessibility... For this one, let's just say it's about the good old 90s.",
-    "image": "freakazoid.jpg",
-    "url": "https://webringdemo.netlify.com",
+    "title": "Bologna web cool kids",
+    "description": "Il gruppo di quelli che stanno su internet a Bologna. Prima su FriendFeed, poi su Twitter, Facebook etc etc e in più hanno un sito. E lo aggiornano.",
+    "image": "boshi.jpg",
+    "url": "https://boring.netlify.com",
     "repo": "https://github.com/maxboeck/webring",
     "admins": [
         {
