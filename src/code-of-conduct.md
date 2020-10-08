@@ -5,6 +5,8 @@ title: 'Code of Conduct'
 
 # Code of Conduct
 
-Rules for being in this webring.
+Regole per far parte di questo webring.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed fuga quae labore, at adipisci mollitia consequatur possimus sint dolor corrupti unde aperiam iste cumque repudiandae enim, aliquid optio amet, quo quia. Doloribus eius atque quis. Odit, culpa saepe! Perferendis, ratione. Laboriosam ratione quod doloribus perferendis? Minus sit itaque totam eius.
+- Rispondere ai tweet di (@decarola)[https://twitter.com/decarola/status/1313019454264160256]
+- Mettere like ai tweet di (@emmaboshi)[https://twitter.com/Emmaboshi/status/1313540495327494149]
+- Fare ogni tanto pranzo in centro a Bologna in un locale felice come Chernobyl verso la fine degli anni '80
