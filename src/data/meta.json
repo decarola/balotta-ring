@@ -1,13 +1,13 @@
 {
     "title": "Bologna web cool kids",
-    "description": "Il gruppo di quelli che stanno su internet a Bologna. Prima su FriendFeed, poi su Twitter, Facebook etc etc e in più hanno un sito. E lo aggiornano.",
+    "description": "Il gruppo di quelli che stanno su internet a Bologna. Prima su FriendFeed, poi su Twitter, Facebook etc etc e in più hanno un sito. E lo aggiornano. E <a href='https://twitter.com/decarola/status/1313019454264160256'>rispondono a tweet</a>",
     "image": "boshi.jpg",
-    "url": "https://boring.netlify.com",
-    "repo": "https://github.com/maxboeck/webring",
+    "url": "https://reverent-almeida-1a06cb.netlify.app/",
+    "repo": "https://github.com/decarola/balotta",
     "admins": [
         {
-            "name": "Max Böck",
-            "url": "https://github.com/maxboeck"
+            "name": "Decarola",
+            "url": "https://github.com/decarola"
         }
     ]
 }

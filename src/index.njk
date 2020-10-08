@@ -5,43 +5,48 @@ layout: base
 {% include 'webring.njk' %}
 
 <div class="markdown">
-    <h2>What's this?</h2>
+    <h2>Cos'è sta roba?</h2>
     <p>
-        A community of sites around a common topic, also known as a <a href="https://en.wikipedia.org/wiki/Webring">webring</a>. 
-        Each member includes a badge on their site that links to the previous and next sites in the ring. 
-        Kids in the 90s used to love it!
+        È una prova di <a href="https://it.wikipedia.org/wiki/Webring">webring</a>. In italiano potremmo dire "anello di siti" (marò che brutto). 
+        In breve sono una serie di siti che hanno un tratto comune, che condividono un tema, che sono connessi tra loro.
+        Ogni sito membro dell'anello include un badge sul proprio sito con i link al sito successivo e precedente.
+        Negli anni 90 era figo. In america.<br>
+        Un po' una nicchia, ecco.
     </p>
 
-    <h2>How to join</h2>
+    <h2>Come farne parte</h2>
     <p>
-        To join the webring, <a href="{{ meta.repo }}/compare">open a pull request</a> 
-        and supply the name and URL of your site. If you publish a RSS feed, you can provide that as well.
+        Per iscriversi a questo webring, devi <a href="{{ meta.repo }}/compare">aprire una pull request</a> 
+        e fornire il nome e l'URL del tuo sito. Se hai anche un feed RSS, puoi dare anche quello.
     </p>
     <p>
-        If you don't have a Github account, you can also use this form to sign up. 
-        The webring admins will then look at your site and handle your request.
+        Se non hai un account Github o non sai cosa sia un pull request – cosa assolutamnte plausibile –
+        puoi usare la form qui sotto per iscriverti. 
+        Gli amministratori riceveranno una notifica e valuteranno la candidatura. 
+        Dovrai anche spedire 5€ a ogni iscritto. <br>
+        Scherzo.
     </p>
 
     {% include 'signupform.njk' %}
 
-    <h2>Add the banner</h2>
+    <h2>Aggiungi il banner</h2>
     <p>
-        Once you've joined the ring, copy this code snippet into your site:
+        Una volta che ti sei iscritto al webring, copia questo pezzetto di codice nel tuo sito:
     </p>
 
     {% highlight 'html' %}{% include 'snippet.njk' %}{% endhighlight %}
 
     <p>
-        It will render this banner that links to the other members:
+        Visualizzerà questo banner che contiene i link agli altri siti membri :
     </p>
 
     {% include 'snippet.njk' %}
 
-    <h2>Want to host your own webring?</h2>
+    <h2>Magari vuoi farti un webring tuo?</h2>
     <p>
-        If you want to start your own webring, fork 
-        <a href="https://github.com/maxboeck/webring">this project</a> on Github 
-        and follow the instructions in the README.
+        Se vuoi fare un tuo webring la cosa più comoda è fare un fork di 
+        <a href="https://github.com/maxboeck/webring">questo progetto</a> su Github 
+        e seguire le istruzioni sul README.
     </p>
 
     {% include 'github.njk' %}
