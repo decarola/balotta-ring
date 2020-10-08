@@ -1,9 +1,9 @@
 {
-    "title": "Bologna web cool kids",
-    "description": "Il gruppo di quelli che stanno su internet a Bologna. Prima su FriendFeed, poi su Twitter, Facebook etc etc e in più hanno un sito. E lo aggiornano. E <a href='https://twitter.com/decarola/status/1313019454264160256'>rispondono a tweet</a>",
+    "title": "La balotta di Bologna",
+    "description": "Il gruppo di quelli che stanno su internet a Bologna e provano le cose del web. E ogni tanto pranzano insieme.",
     "image": "boshi.jpg",
     "url": "https://reverent-almeida-1a06cb.netlify.app/",
-    "repo": "https://github.com/decarola/balotta",
+    "repo": "https://github.com/decarola/balotta-ring",
     "admins": [
         {
             "name": "Decarola",
