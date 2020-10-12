@@ -18,5 +18,10 @@
         "title": "Gianluca Diegoli",
         "url": "https://www.minimarketing.it/",
         "feed": "https://www.minimarketing.it/feed"
+    },
+    {
+        "title": "Enzo Baruffaldi",
+        "url": "https://polaroid.blogspot.com",
+        "feed": "http://feeds.feedburner.com/PolaroidUnBlogAllaRadio"
     }
 ]
